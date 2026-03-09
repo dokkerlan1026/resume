@@ -11,21 +11,34 @@
 
 1. **履歷**：詳見 [Resume履歷.md](Resume履歷.md)，重點包括教育背景、技術專長、專題與實習經歷、證照等。
 2. **自傳**：詳見 [Autobiography自傳.md](Autobiography自傳.md)，具體描述我的學習歷程、專案經驗、性格特質與未來規劃。
-3. **作品**：https://huggingface.co/spaces/Dokkerlan123/hangi_translator
-https://huggingface.co/spaces/Dokkerlan123/hangi_talking_animator
+3. **作品**：
+- [憨吉AI翻譯工具](https://huggingface.co/spaces/Dokkerlan123/hangi_translator)
+- [憨吉對話聊天室動畫工作坊](https://huggingface.co/spaces/Dokkerlan123/hangi_talking_animator)
 
 ## 🛠 熟悉技術
 
+### 💻 程式設計
+- Python 程式設計
+- 使用 AI 開發程式
+
+### 🎬 多媒體製作
+- 影片剪輯後製與字幕製作
+- Adobe 系列軟體應用
+
+### 📄 其他
+- 文書處理
 
 ## 🚀 專案經驗
 
 - **[地下道淹水辨識](projects/1/地下道淹水辨識.md)**
   - 以影像辨識進行地下道水位監控，搭配 LINE Notify 進行即時預警。
   - 建立三階段警戒水位機制，協助降低淹水造成的交通與財損風險。
-- **[憨吉 2.0－基於大型語言模型之 AI 學伴系統與教師端設計](projects/2/憨吉2.0：基於大型語言模型之AI學伴系統與教師端設計.md)**大四專題
+- **[憨吉 2.0－基於大型語言模型之 AI 學伴系統與教師端設計](projects/2/憨吉2.0：基於大型語言模型之AI學伴系統與教師端設計.md)**
+  - 大四專題
   - 延續「教中學」理念，新增教師端管理與班級數據顯示。
   - 具備自訂課程、角色扮演、AI 主動互動與統一問答等功能。
-- **[憨吉 1.0－AI 學伴系統簡報](projects/3/憨吉1.0：AI學伴系統簡報.md)**大三專題
+- **[憨吉 1.0－AI 學伴系統簡報](projects/3/憨吉1.0：AI學伴系統簡報.md)**
+  - 大三專題
   - 以 LLM、RAG 與向量資料庫建置 AI 學伴原型，支援知識輸入與對話學習。
   - 入班測試結果平均 4.23/5，學生回饋有助於複習、抓重點與整理筆記。
 
