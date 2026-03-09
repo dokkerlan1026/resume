@@ -5,8 +5,8 @@
 
 ## 📄 Portfolio 內容
 
-1. **履歷**：詳見 [Resume履歷.md](resume.md)，重點包括教育背景、技術專長、專題與實習經歷、證照等。
-2. **自傳**：詳見 [Autobiography自傳.md](Autobiography自傳.md)，具體描述我的學習歷程、專案經驗、性格特質與未來規劃。
+1. **履歷**：詳見 [Resume履歷](Resume履歷.md)，重點包括教育背景、技術專長、專題與實習經歷、證照等。
+2. **自傳**：詳見 [Autobiography自傳](Autobiography自傳.md)，具體描述我的學習歷程、專案經驗、性格特質與未來規劃。
 3. **作品**：
 - [憨吉AI翻譯工具](https://huggingface.co/spaces/Dokkerlan123/hangi_translator)
 - [憨吉對話聊天室動畫工作坊](https://huggingface.co/spaces/Dokkerlan123/hangi_talking_animator)
